@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Tutoring on your level!
+    text: Math, science, ACT/SAT and more
+    button: Learn more
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "One-on-one tutoring"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Subjects"
+        desc: "Kyle specializes in tutoring math, physics, computer science, Spanish, and ACT/SAT prep."
+        icon: fa-solid fa-book #find more at https://fontawesome.com/icons
+      - title: "Remote and in person"
+        desc: "Get help whether you prefer the flexibility of online tutoring or connecting in person."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "A decade of experience"
+        desc: "Kyle has been tutoring at a professional level for over 14 years and loves making learning fun!"
+        icon: fa-solid fa-school
 
   portfolio:
     title: "Portfolio"
@@ -38,7 +38,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "Qualifications"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
