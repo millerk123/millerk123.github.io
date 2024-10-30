@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Tutoring on your level!
+    title: Tutoring at your level!
     text: Math, science, ACT/SAT and more
     button: Learn more
     buttonlink: "#services"
@@ -23,45 +23,45 @@ en: &DEFAULT_EN
     list:
       - title: "Subjects"
         desc: "Kyle specializes in tutoring math, physics, computer science, Spanish, and ACT/SAT prep."
-        icon: fa-solid fa-book #find more at https://fontawesome.com/icons
+        icon: fas fa-book #find more at https://fontawesome.com/icons
       - title: "Remote and in person"
         desc: "Get help whether you prefer the flexibility of online tutoring or connecting in person."
         icon: fas fa-laptop
       - title: "A decade of experience"
         desc: "Kyle has been tutoring at a professional level for over 14 years and loves making learning fun!"
-        icon: fa-solid fa-school
+        icon: fas fa-school
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+  # portfolio:
+  #   title: "Portfolio"
+  #   text: "Lorem ipsum dolor sit amet consectetur."
+  #   section: portfolio
+  #   closebutton: "Close Project"
 
   timeline:
     title: "Qualifications"
-    text: "Lorem ipsum timeline"
+    text: "Kyle is ready to help out!"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "PhD in Plasma Physics"
+        year: "2016-2022"
+        desc: "Kyle received his PhD in computational plasma physics from UCLA after 6 years of study."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Master's and Bachelor's Degrees in Physics"
+        year: "2009-2016"
+        desc: "Kyle pursued degrees in physics from BYU, broken up by a two-year service mission to Nicaragua."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Tutor for Atelier Tutors"
+        year: "2016-present"
+        desc: "Professional tutor for Lon Angeles-based agency Atelier Tutors.  Kyle tutored both in person and remotely for dozens of families."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Tutor for High School and College"
+        year: "2009-2014"
+        desc: "After graduating from Mountain View High School, Kyle was hired on by the high school to tutor for their math classes.  Kyle was also hired by BYU to tutor physics."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -69,9 +69,8 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    body: "Kyle is a dad"
     section: about
 
   clients:
@@ -190,11 +189,11 @@ es: &DEFAULT_ES
         desc: "Su descripción aquí, soporte completo de **Markdown**"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
-    closebutton: "Cerrar Proyecto"
+  # portfolio:
+  #   title: "Portafolio"
+  #   text: "Lorem ipsum dolor sit amet consectetur."
+  #   section: portafolio
+  #   closebutton: "Cerrar Proyecto"
 
   timeline:
     title: "Cronología"
