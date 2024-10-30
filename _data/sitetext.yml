@@ -37,10 +37,10 @@ en: &DEFAULT_EN
     section: subjects
     closebutton: "Close Subject"
 
-  timeline:
+  qualifications:
     title: "Qualifications"
     text: "Kyle is ready to help out!"
-    section: timeline
+    section: qualifications
     # left is the default
     #start_align: "left"
     events:
