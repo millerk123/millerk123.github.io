@@ -32,6 +32,7 @@ analytics:
 
 collections:
   subjects:
+    output: true
 
 markdown: kramdown
 
