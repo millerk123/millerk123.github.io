@@ -31,16 +31,16 @@ en: &DEFAULT_EN
         desc: "Kyle has been tutoring at a professional level for over 14 years and loves making learning fun!"
         icon: fas fa-school
 
-  subjects:
+  portfolio:
     title: "Subjects"
     # text: "Lorem ipsum dolor sit amet consectetur."
-    section: subjects
+    section: portfolio
     closebutton: "Close Subject"
 
-  qualifications:
+  timeline:
     title: "Qualifications"
     text: "Kyle is ready to help out!"
-    section: qualifications
+    section: timeline
     # left is the default
     #start_align: "left"
     events:
