@@ -1,18 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Physics
+subtitle: Any level from high school to graduate school
 image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+# alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Physics
+  subtitle: AP and college levels
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+Kyle received BS, MS, and PhD degrees in physics, and he is extremely well-versed in all physics topics.  He has decades of experience breaking down difficult concepts for all types of learners.
 

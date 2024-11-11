@@ -22,9 +22,9 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "STEM tutoring"
-        desc: "Kyle specializes in tutoring math, physics, computer science, Spanish, and ACT/SAT prep."
+        desc: "Kyle specializes in tutoring math, physics, ACT/SAT prep, computer science, and Spanish."
         icon: fas fa-book #find more at https://fontawesome.com/icons
-      - title: "Remote and in person"
+      - title: "Remote or in person"
         desc: "Get help whether you prefer the flexibility of online tutoring or connecting in person."
         icon: fas fa-laptop
       - title: "A decade of experience"
@@ -71,16 +71,16 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Reach out <br> today!"
 
   about:
     title: "About Me"
-    body: "I am a husband, father of three, and full-time research scientist at the University of Rochester.  Some of my favorite pastimes are playing basketball, reading fantasy novels, and playing video games."
+    body: "I am a husband, father of three, and full-time research scientist at the University of Rochester.  Some of my favorite pastimes include playing basketball, reading fantasy novels, and playing the saxophone."
     section: about
 
   contact:
-    title: "Contact Us"
-    text: "Text or call me at 801-709-9624."
+    title: "Contact Me"
+    text: "Can also text/call 801-709-9624."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -96,16 +96,12 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://www.facebook.com/kyle.miller.nica
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/in/kyle-miller-427b9859/
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/millerk123
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

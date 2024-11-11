@@ -1,18 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: ACT/SAT Prep
+subtitle: Starting preparing today!
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: ACT/SAT Prep
+  subtitle: Start preparing today!
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+Are you trying to make it into your dream college?  Kyle is here to help!  Start working toward your goals today by studying for the ACT or SAT test.  Kyle knows the ins and outs of the exam, is an experienced test taker himself, and is ready to help you get going!
 

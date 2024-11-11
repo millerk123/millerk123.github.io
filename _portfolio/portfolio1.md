@@ -6,7 +6,7 @@ image: assets/img/portfolio/01-full.jpg
 
 caption:
   title: Math
-  subtitle: Any level
+  subtitle: Any and every level
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Kyle has extensive experience tutoring Algebra 1 & 2, Geometry, Precalculus, AP Calculus AB, AP Calculus BC, Statistics, Multi-Variable Calculus, Linear Algebra, and Differential Equations.  Basically, if your student is taking it, Kyle can teach it.  Reach out today!
