@@ -52,22 +52,22 @@ en: &DEFAULT_EN
       - title: "Tutor for Atelier Tutors"
         year: "2016-present"
         desc: "Professional tutor for Lon Angeles-based agency Atelier Tutors.  Kyle tutored both in person and remotely for dozens of families."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/2.jpg
         alt: image alt text
       - title: "PhD in Plasma Physics"
         year: "2016-2022"
         desc: "Kyle received his PhD in computational plasma physics from UCLA after 6 years of study."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/3.jpg
         alt:
       - title: "Master's and Bachelor's Degrees in Physics"
         year: "2009-2016"
         desc: "Kyle pursued degrees in physics from BYU, minoring in math, music, and Spanish.  During this time he also served a two-year service mission to Nicaragua."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/4.jpg
         alt:
       - title: "Tutor for High School and College"
         year: "2009-2014"
         desc: "After graduating from Mountain View High School, Kyle was hired on by the high school to tutor for their math classes.  Kyle was also hired by BYU to tutor physics."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/5.jpg
         alt:
         # you can enforce the alignment
         align: right
