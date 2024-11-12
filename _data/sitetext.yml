@@ -46,12 +46,12 @@ en: &DEFAULT_EN
     events:
       - title: "Research Scientist at the U of R"
         year: "2022-present"
-        desc: "Kyle is currently employed at the Laboratory for Laser Energetics at the University of Rochester as a research scientist."
+        desc: "Kyle is currently employed with the Laboratory for Laser Energetics at the University of Rochester as a research scientist."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Tutor for Atelier Tutors"
         year: "2016-present"
-        desc: "Professional tutor for Lon Angeles-based agency Atelier Tutors.  Kyle tutored both in person and remotely for dozens of families."
+        desc: "Professional tutor for Los Angeles-based agency Atelier Tutors.  Kyle tutored both in person and remotely for dozens of families."
         image: assets/img/timeline/2.jpg
         alt: image alt text
       - title: "PhD in Plasma Physics"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Reach out <br> today!"
+    end: "Reach out <br> and start <br> today!"
 
   about:
     title: "About Me"
