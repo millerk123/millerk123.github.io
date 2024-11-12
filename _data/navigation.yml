@@ -21,8 +21,6 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Contact"
       section: contact
-    - title: "Rates"
-      section: rates
 en-US:
   <<: *DEFAULT_EN
 en-CA:

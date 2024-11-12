@@ -78,21 +78,6 @@ en: &DEFAULT_EN
     body: "I am a husband, father of three, and full-time research scientist at the University of Rochester.  Some of my favorite pastimes include playing basketball, reading fantasy novels, and playing the saxophone."
     section: about
 
-  rates:
-    title: "Rates"
-    text: "One-on-one tutoring"
-    section: rates
-    list:
-      - title: "BBSTEM tutoring"
-        desc: "Kyle specializes in tutoring math, physics, SAT/ACT prep, computer science, and Spanish."
-        icon: fas fa-book #find more at https://fontawesome.com/icons
-      - title: "BBRemote or in person"
-        desc: "Get help whether you prefer the flexibility of online tutoring or connecting in person."
-        icon: fas fa-laptop
-      - title: "BBA decade of experience"
-        desc: "Kyle has been tutoring at a professional level for over 14 years and loves making learning fun!"
-        icon: fas fa-school
-
   contact:
     title: "Contact me for availability and pricing"
     text: "Can also text/call 801-709-9624."
