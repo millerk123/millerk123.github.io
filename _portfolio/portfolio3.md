@@ -1,11 +1,11 @@
 ---
-title: ACT/SAT Prep
+title: SAT/ACT Prep
 subtitle: Starting preparing today!
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: ACT/SAT Prep
+  title: SAT/ACT Prep
   subtitle: Start preparing today!
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---

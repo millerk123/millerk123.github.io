@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Tutoring at your level!
-    text: Math, science, ACT/SAT and more
+    text: Math, science, SAT/ACT prep and more
     button: Learn more
     buttonlink: "#services"
 
@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "STEM tutoring"
-        desc: "Kyle specializes in tutoring math, physics, ACT/SAT prep, computer science, and Spanish."
+        desc: "Kyle specializes in tutoring math, physics, SAT/ACT prep, computer science, and Spanish."
         icon: fas fa-book #find more at https://fontawesome.com/icons
       - title: "Remote or in person"
         desc: "Get help whether you prefer the flexibility of online tutoring or connecting in person."
@@ -49,6 +49,11 @@ en: &DEFAULT_EN
         desc: "Kyle is currently employed at the Laboratory for Laser Energetics at the University of Rochester as a research scientist."
         image: assets/img/timeline/1.jpg
         alt:
+      - title: "Tutor for Atelier Tutors"
+        year: "2016-present"
+        desc: "Professional tutor for Lon Angeles-based agency Atelier Tutors.  Kyle tutored both in person and remotely for dozens of families."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
       - title: "PhD in Plasma Physics"
         year: "2016-2022"
         desc: "Kyle received his PhD in computational plasma physics from UCLA after 6 years of study."
@@ -56,14 +61,9 @@ en: &DEFAULT_EN
         alt:
       - title: "Master's and Bachelor's Degrees in Physics"
         year: "2009-2016"
-        desc: "Kyle pursued degrees in physics from BYU, broken up by a two-year service mission to Nicaragua."
+        desc: "Kyle pursued degrees in physics from BYU, minoring in math, music, and Spanish.  During this time he also served a two-year service mission to Nicaragua."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Tutor for Atelier Tutors"
-        year: "2016-present"
-        desc: "Professional tutor for Lon Angeles-based agency Atelier Tutors.  Kyle tutored both in person and remotely for dozens of families."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
       - title: "Tutor for High School and College"
         year: "2009-2014"
         desc: "After graduating from Mountain View High School, Kyle was hired on by the high school to tutor for their math classes.  Kyle was also hired by BYU to tutor physics."
@@ -79,7 +79,7 @@ en: &DEFAULT_EN
     section: about
 
   contact:
-    title: "Contact Me"
+    title: "Contact me for availability and pricing"
     text: "Can also text/call 801-709-9624."
     section: contact
     name: "Name*"
