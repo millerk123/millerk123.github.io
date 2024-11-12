@@ -78,7 +78,7 @@ en: &DEFAULT_EN
     body: "I am a husband, father of three, and full-time research scientist at the University of Rochester.  Some of my favorite pastimes include playing basketball, reading fantasy novels, and playing the saxophone."
     section: about
 
-  services:
+  rates:
     title: "Rates"
     text: "One-on-one tutoring"
     section: rates
