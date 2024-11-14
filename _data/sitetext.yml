@@ -71,7 +71,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Reach out <br> and start <br> today!"
+    # end: "Reach out <br> and start <br> today!"
 
   about:
     title: "About Me"
@@ -80,16 +80,16 @@ en: &DEFAULT_EN
 
   rates:
     title: "Rates"
-    text: "One-on-one tutoring"
+    # text: "One-on-one tutoring"
     section: rates
     list:
-      - title: "50% off the first lesson!"
+      - title: "Get 50% off the first lesson!"
         desc: "Would you like a test run? Book Kyle for just $30 for half hour or $50 for an hour."
         icon: fas fa-tag #find more at https://fontawesome.com/icons
-      - title: "Lessons as short as 30 minutes"
+      - title: "Lessons can be as short as 30 minutes"
         desc: "Get a half-hour remote or in-person tutoring session for just $60."
-        icon: fas fa-usd
-      - title: "Standard lessons are 60 minutes"
+        icon: fas fa-clock-o
+      - title: "Standard lessons are for 60 minutes"
         desc: "The standard lesson format is 1 hour for $100.  Contact Kyle for information about group rates."
         icon: fas fa-graduation-cap
 
