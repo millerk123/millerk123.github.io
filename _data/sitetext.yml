@@ -44,7 +44,7 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Research Scientist at the U of R"
+      - title: "Research Scientist <br> at the U of R"
         year: "2022-present"
         desc: "Kyle is currently employed with the Laboratory for Laser Energetics at the University of Rochester as a research scientist."
         image: assets/img/timeline/1.jpg
@@ -64,7 +64,7 @@ en: &DEFAULT_EN
         desc: "Kyle pursued degrees in physics from BYU, minoring in math, music, and Spanish.  During this time he also served a two-year service mission to Nicaragua."
         image: assets/img/timeline/4.jpg
         alt:
-      - title: "Tutor for High School and College"
+      - title: "Tutor for High School <br> and College"
         year: "2009-2014"
         desc: "After graduating from Mountain View High School, Kyle was hired on by the high school to tutor for their math classes.  Kyle was also hired by BYU to tutor physics."
         image: assets/img/timeline/5.jpg
@@ -86,10 +86,10 @@ en: &DEFAULT_EN
       - title: "Get 50% off <br> the first lesson!"
         desc: "Would you like a test run? Book Kyle for just $30 for half hour or $50 for an hour."
         icon: fas fa-tag #find more at https://fontawesome.com/icons
-      - title: "Lessons can be as short as 30 minutes"
+      - title: "Lessons as short <br> as 30 minutes"
         desc: "Get a half-hour remote or in-person tutoring session for just $60."
-        icon: fa fa-clock-o
-      - title: "Standard lessons are for 60 minutes"
+        icon: fas fa-clock
+      - title: "Standard lessons <br> are 60 minutes"
         desc: "The standard lesson format is 1 hour for $100.  Contact Kyle for information about group rates."
         icon: fas fa-graduation-cap
 
@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     section: availability
 
   contact:
-    title: "Contact me for more information"
+    title: "Contact me to get started!"
     text: "Can also text/call 801-709-9624."
     section: contact
     name: "Name*"
