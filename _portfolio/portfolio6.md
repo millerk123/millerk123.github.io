@@ -5,7 +5,7 @@ image: assets/img/portfolio/06-full.jpg
 alt: 
 
 caption:
-  title: Saxophone and Clarinet
+  title: Saxophone/Clarinet
   subtitle: Get help with music as well!
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---

@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "Research Scientist <br> at the U of R"
         year: "2022-present"
-        desc: "Kyle is currently employed with the Laboratory for Laser Energetics at the University of Rochester as a research scientist."
+        desc: "Kyle currently works for the Laboratory for Laser Energetics at the University of Rochester as a research scientist."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Tutor for Atelier Tutors"
@@ -56,7 +56,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "PhD in Plasma Physics"
         year: "2016-2022"
-        desc: "Kyle received his PhD in computational plasma physics from UCLA after 6 years of study."
+        desc: "Kyle received his PhD in computational plasma physics from UCLA."
         image: assets/img/timeline/3.jpg
         alt:
       - title: "Master's and Bachelor's Degrees in Physics"
@@ -75,7 +75,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Me"
-    body: "I am a husband, father of three, and full-time research scientist at the University of Rochester.  Some of my favorite pastimes include playing basketball, reading fantasy novels, and playing the saxophone."
+    body: "I am a husband, father of three, and research scientist at the University of Rochester.  Some of my favorite pastimes include playing basketball, reading fantasy novels, and playing the saxophone."
     section: about
 
   rates:
@@ -87,7 +87,7 @@ en: &DEFAULT_EN
         desc: "Would you like a test run? Book Kyle for just $30 for half hour or $50 for an hour."
         icon: fas fa-tag #find more at https://fontawesome.com/icons
       - title: "Lessons as short <br> as 30 minutes"
-        desc: "Get a half-hour remote or in-person tutoring session for just $60."
+        desc: "Get a half-hour remote or in-person tutoring session for $60."
         icon: fas fa-clock
       - title: "Standard lessons <br> are 60 minutes"
         desc: "The standard lesson format is 1 hour for $100.  Contact Kyle for information about group rates."
