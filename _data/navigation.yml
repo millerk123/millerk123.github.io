@@ -19,6 +19,10 @@ en: &DEFAULT_EN
       section: about
     - title: "Qualifications"
       section: timeline
+    - title: "Rates"
+      section: rates
+    - title: "Availability"
+      section: availability
     - title: "Contact"
       section: contact
 en-US:
