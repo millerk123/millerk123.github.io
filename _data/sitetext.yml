@@ -88,7 +88,7 @@ en: &DEFAULT_EN
         icon: fas fa-tag #find more at https://fontawesome.com/icons
       - title: "Lessons can be as short as 30 minutes"
         desc: "Get a half-hour remote or in-person tutoring session for just $60."
-        icon: fas fa-clock-o
+        icon: fas fa-graduation-cap
       - title: "Standard lessons are for 60 minutes"
         desc: "The standard lesson format is 1 hour for $100.  Contact Kyle for information about group rates."
         icon: fas fa-graduation-cap
